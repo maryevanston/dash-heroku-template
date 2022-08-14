@@ -1,4 +1,3 @@
-gunicorn>=20.0.4
 plotly>=5.0.9
 dash>=2.6.1
 dash-renderer>=1.9.1
